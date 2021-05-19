@@ -1,1 +1,2 @@
-* Hello world [[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif][https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif]]
+#+html: <h1 align="center">Hello world <a href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif][https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/></h1>
+#+html: <h3 align="center">Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a>
