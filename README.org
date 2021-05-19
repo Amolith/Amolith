@@ -1,2 +1,14 @@
 #+html: <h1 align="center">Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>, I'm Amolith!</h1>
 #+html: <h3 align="center"><em>Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
+
+I care a /great/ deal about free software from an ethical and moral
+standpoint. Because of that, I avoid using GitHub wherever possible and
+delete my repositories after my contributions have been merged. Much of
+my personal work can be found on [[https://git.nixnet.services/Amolith/][Gitea]], a git host I run as part of
+[[https://nixnet.services][NixNet]]. I also have repositories and contributions on [[https://sr.ht/~amolith/][SourceHut]], a libre
+software forge supported by its users.
+
+If you are in a position to do so, I encourage you to migrate your
+repositories to a more ethical platform as well.
+
+#+html: <p style="font-size:smaller;"><em>Written in <a href="https://orgmode.org/">Org Mode</a> using <a href="https://www.gnu.org/software/emacs/">GNU Emacs</a></em></p>
