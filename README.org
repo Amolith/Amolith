@@ -15,4 +15,6 @@ latter is especially nice; its entire collaboration model is based
 around email and I find the workflow /vastly/ superior to GitHub's
 fork/modify/commit/push/open PR model.
 
-#+html: <p style="font-size:smaller !important;"><em>Written in <a href="https://orgmode.org/">Org Mode</a> using <a href="https://www.gnu.org/software/emacs/">GNU Emacs</a></em></p>
+#+html: <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&border_radius=0&custom_title=Wakapi%20Weekly%20Stats&theme=dracula&hide=unknown"/>
+
+#+html: <p style="font-size:smaller !important;"><em>The card above was generated with <a href="https://waka.secluded.site">Wakapi</a>, a self-hosted alternative to <a href="https://wakatime.com/">WakaTime</a>.</em></p>
