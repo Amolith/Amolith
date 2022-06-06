@@ -1,4 +1,4 @@
-#+html: <h1 align="center">Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>, I'm Amolith!</h1>
+#+html: <h1 align="center">Hello world 👋, I'm Amolith!</h1>
 #+html: <h3 align="center"><em>Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
 
 I care a /great/ deal about free software from an ethical and moral
