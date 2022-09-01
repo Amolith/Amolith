@@ -1,19 +1,18 @@
 #+html: <h1 align="center">Hello world 👋, I'm Amolith!</h1>
 #+html: <h3 align="center"><em>Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
 
-I care a /great/ deal about free software from an ethical and moral
-standpoint. Because of that, I avoid using GitHub wherever possible and
-delete forked repositories after contributions have been merged
-upstream. Much of my personal work can be found on [[https://git.nixnet.services/Amolith/][Gitea]], a git host I
-run as part of [[https://nixnet.services][NixNet]]. I also have repositories and contributions on
-[[https://sr.ht/~amolith/][SourceHut]], a fully libre software forge supported by its users.
+I care a /great/ deal about free software from an ethical and moral standpoint.
+Because of that, I avoid using GitHub wherever possible and delete forked
+repositories after contributions have been merged upstream. Most of my personal
+work can be found on [[https://sr.ht/~amolith][SourceHut]], a full-featured, open source, and
+permissively-licensed software forge supported by its users. Some of my older
+work can be found on [[https://git.nixnet.services/Amolith/][Gitea]], a git host I run as part of [[https://nixnet.services][NixNet]].
 
-If you are in a position to do so, I encourage you to migrate your
-repositories to a more ethical platform as well. For more information
-about Gitea, see [[https://gitea.io][gitea.io]], and for SourceHut, head to [[https://sourcehut.org][sourcehut.org]]. The
-latter is especially nice; its entire collaboration model is based
-around email and I find the workflow /vastly/ superior to GitHub's
-fork/modify/commit/push/open PR model.
+If you are in a position to do so, I encourage you to migrate your repositories
+to a more ethical platform as well. For more information about Gitea, see
+[[https://gitea.io][gitea.io]], and for SourceHut, head to [[https://sourcehut.org][sourcehut.org]]. The latter is especially
+nice as its entire collaboration model is based around email and I find the
+workflow /vastly/ superior to GitHub's fork/modify/commit/push/open PR model.
 
 #+html: <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&border_radius=0&custom_title=Wakapi%20Weekly%20Stats&theme=dracula&hide=unknown&langs_count=5"/>
 
