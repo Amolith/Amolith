@@ -3,9 +3,9 @@
 
 I care a great deal about free software and being productive, so I avoid using
 GitHub wherever possible.[^1] Most of my personal work can be found on
-[[SourceHut]], a full-featured, open source, and permissively-licensed software
-forge supported by its users. Some of my older work can be found on [[Forgejo]],
-a git host I run as part of [[NixNet]].
+[SourceHut], a full-featured, open source, and permissively-licensed software
+forge supported by its users. Some of my older work can be found on [Forgejo],
+a git host I run as part of [NixNet].
 
 [SourceHut]: https://sr.ht/~amolith
 [Forgejo]: https://git.nixnet.services/Amolith
@@ -13,7 +13,7 @@ a git host I run as part of [[NixNet]].
 
 If you are in a position to do so, I encourage you to migrate your repositories
 to a more ethical platform as well. For more information about Forgejo, see
-[[forgejo.org]], and for SourceHut, head to [[sourcehut.org]]. The latter is
+[forgejo.org], and for SourceHut, head to [sourcehut.org]. The latter is
 especially nice as its entire collaboration model is based around email and I
 find the workflow /vastly/ superior to GitHub's fork/modify/commit/push/open PR
 model.
