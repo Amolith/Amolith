@@ -2,7 +2,7 @@
 <h3 align="center"><em>Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
 
 I care a great deal about free software and being productive, so I avoid using
-GitHub wherever possible.[fn:1] Most of my personal work can be found on
+GitHub wherever possible.[^1] Most of my personal work can be found on
 [[SourceHut]], a full-featured, open source, and permissively-licensed software
 forge supported by its users. Some of my older work can be found on [[Forgejo]],
 a git host I run as part of [[NixNet]].
@@ -25,10 +25,9 @@ model.
 
 <p style="font-size:smaller !important;"><em>The card above was generated with <a href="https://waka.secluded.site">Wakapi</a>, a self-hosted alternative to <a href="https://wakatime.com/">WakaTime</a>.</em></p>
 
-[fn:1]GitHub is not free software and using GitHub to host projects is not
-productive. GitHub's extreme gamification of software development is a detriment
-to the software development ecosystem. I'll eventually write about this on my
-blog, but in the meantime, _[We need to talk about your GitHub
-addiction][ploum]_.
-
-[ploum]: https://ploum.net/2023-02-22-leaving-github.html
+[^1]:
+    GitHub is not free software and using GitHub to host projects is not
+    productive. GitHub's extreme gamification of software development is a detriment
+    to the software development ecosystem. I'll eventually write about this on my
+    blog, but in the meantime, _[We need to talk about your GitHub
+    addiction](https://ploum.net/2023-02-22-leaving-github.html)_.
