@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Amolith!</h1>
-<h3 align="center"><em>Linux user, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
+<h3 align="center"><em>Small business owner, sysadmin, & founder of <a href="https://nixnet.services">NixNet</a></em></h3>
 
 I care a great deal about free software and being productive, so I avoid using
 GitHub wherever possible.[^1] Most of my personal work can be found on
