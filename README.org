@@ -17,3 +17,10 @@ workflow /vastly/ superior to GitHub's fork/modify/commit/push/open PR model.
 #+html: <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&border_radius=0&custom_title=Wakapi%20Monthly%20Stats&theme=dracula&hide=unknown&langs_count=5&range=last_30_days"/>
 
 #+html: <p style="font-size:smaller !important;"><em>The card above was generated with <a href="https://waka.secluded.site">Wakapi</a>, a self-hosted alternative to <a href="https://wakatime.com/">WakaTime</a>.</em></p>
+
+* Footnotes
+
+[fn:1]GitHub is not free software and using GitHub to host projects is not
+productive. GitHub's extreme gamification of software development is a detriment
+to the software development ecosystem. I'll eventually write about this on my
+blog, but in the meantime, /[[https://ploum.net/2023-02-22-leaving-github.html][We need to talk about your GitHub addiction]]/.
