@@ -12,10 +12,10 @@ a git host I run as part of [NixNet].
 [NixNet]: https://nixnet.services
 
 If you are in a position to do so, I encourage you to migrate your repositories
-to a more ethical platform as well. For more information about Forgejo, see
+to a higher quality platform. For more information about Forgejo, see
 [forgejo.org], and for SourceHut, head to [sourcehut.org]. The latter is
 especially nice as its entire collaboration model is based around email and I
-find the workflow /vastly/ superior to GitHub's fork/modify/commit/push/open PR
+find the workflow _vastly_ superior to GitHub's fork/modify/commit/push/open PR
 model.
 
 [forgejo.org]: https://forgejo.org
