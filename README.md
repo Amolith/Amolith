@@ -20,7 +20,7 @@ Forgejo is working on federation through ActivityPub).
 [forgejo.org]: https://forgejo.org
 [sourcehut.org]: https://sourcehut.org
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&langs_count=10&disable_animations=true&custom_title=Amolith%27s%20yearly%20Wakapi%20stats&theme=catppuccin_mocha#gh-dark-mode-only"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&langs_count=10&disable_animations=true&custom_title=Amolith%27s%20yearly%20Wakapi%20stats&theme=catppuccin_latte#gh-light-mode-only"/>
+[![Amolith's Wakapi state - dark](https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&langs_count=10&disable_animations=true&custom_title=Amolith%27s%20yearly%20Wakapi%20stats&theme=catppuccin_mocha#gh-dark-mode-only)](https://sr.ht/~amolith/#gh-dark-mode-only)
+[![Amolith's Wakapi stats - light](https://github-readme-stats.vercel.app/api/wakatime?username=amolith&api_domain=waka.secluded.site&langs_count=10&disable_animations=true&custom_title=Amolith%27s%20yearly%20Wakapi%20stats&theme=catppuccin_latte#gh-light-mode-only)](https://sr.ht/~amolith/#gh-light-mode-only)
 
 <p style="font-size:smaller !important;"><em>The card above was generated with <a href="https://waka.secluded.site">Wakapi</a>, a self-hosted alternative to <a href="https://wakatime.com/">WakaTime</a>.</em></p>
