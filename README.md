@@ -1,10 +1,10 @@
 Hi :)
 
-GitHub is very proprietary software owned by a horrid company. Unfortunately,
-it's also where much of the open source world has chosen to host its
-software.[^1] Thus, my GitHub account is _primarily_ for collaboration; I'm not
-really hosting any of my own projects here.[^2] Instead, _everything_ I work on
-and create has a copy on [git.secluded.site](https://git.secluded.site).
+GitHub is proprietary software owned by a horrid company. Unfortunately, it's
+also where much of the open source world has chosen to host its software.[^1]
+Thus, my GitHub account is _primarily_ for collaboration; I'm not really
+hosting any of my own projects here.[^2] Instead, _everything_ I work on and
+create has a copy on [git.secluded.site](https://git.secluded.site).
 
 I'm a member of the [MBOA.dev](https://mboa.dev/) worker-owned co-op that
 creates/maintains:
@@ -20,6 +20,16 @@ creates/maintains:
 	Google _any_ personal data (aside from the query)
 - [Togethr.party](https://togethr.party) — your very own Mastodon-compatible
   fediverse instance
+
+I also co-host a couple podcasts:
+
+- [Linux Dev Time](https://linuxdevtime.com) — Professional software developers
+  Amolith, [Kevin](https://kbknapp.dev/), and
+	[Andy](https://www.artificialworlds.net/) join [Joe](https://joeress.com/)
+  and guests to discuss developing with, and for Linux.
+- [Linux Lads](https://linuxlads.com) — three Irishmen plus that one American
+  (Amolith) casually chat about Linux, free software, hardware, and
+  occasionally interview some neat people.
 
 [^1]: please consider [Codeberg](https://codeberg.org) instead
 [^2]: except [Willow](https://github.com/Amolith/willow), to maybe get more
